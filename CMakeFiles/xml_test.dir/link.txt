@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g -ggdb   CMakeFiles/xml_test.dir/src/tinyxml2.cpp.o CMakeFiles/xml_test.dir/src/xml2_test.cpp.o  -o xml_test 

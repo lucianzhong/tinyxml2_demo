@@ -1,0 +1,3 @@
+/home/zy/Desktop/test/CMakeFiles/edit_cache.dir
+/home/zy/Desktop/test/CMakeFiles/rebuild_cache.dir
+/home/zy/Desktop/test/CMakeFiles/xml_test.dir
